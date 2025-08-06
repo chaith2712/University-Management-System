@@ -1,0 +1,7 @@
+Welcome To University Management System
+        ***************************************
+        1.Add Student.
+        2.Search Student.
+        3.Update Data Of Student.
+        4.Exit.
+        Enter Your Choice: 
